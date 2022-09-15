@@ -54,6 +54,8 @@ p{
     text-align: center;
     font-weight: lighter;
     text-shadow: 3px 1px rgba(0, 0, 0, 0.604);
+    margin-bottom: 0px;
+    padding-bottom: 15px;
 }
 
 a{
